@@ -2,7 +2,7 @@
 -Wesley Stanis
 
 Project that performs a sentiment analysis that compares a support vector machine model with a multiniomial naive Bayes model on a textual data containing movie reviews.
-This analysis was written with Python. Downloading anaconda is recommened for this analysis. 
+This analysis was written with Python, using Jupyter Notebook. Downloading anaconda is recommened for this analysis. 
 
 This project is to demonstrate text mining techniques to perform a sentiment analysis.
 
